@@ -7,7 +7,7 @@
 ###
 
 <p align="left"> <br><br><br>
-- degree in Data Science.- front-end developer specializing in web development.<br>- currently studying mobile app development to expand expertise.<br>- Improving design and user experience skills for enhanced application interfaces.<br>- strong focus on modern technologies and user-centric design in web and mobile solutions.</p>
+- degree in Data Science.<br>- front-end developer specializing in web development.<br>- currently studying mobile app development to expand expertise.<br>- Improving design and user experience skills for enhanced application interfaces.<br>- strong focus on modern technologies and user-centric design in web and mobile solutions.</p>
 
 ###
 
